@@ -4,7 +4,7 @@
     "version": "1.0.0",
     "description": "Steam Big Picture Mode sound effects",
     "plugin": "plugin.js",
-    "homepage": "https://github.com/MediaBrowser/emby.web.plugins.soundeffects",
+    "homepage": "https://github.com/Shaefurr/emby.web.plugins.soundeffects.git",
     "thumb": "",
     "backdrop": ""
 }
