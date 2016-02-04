@@ -4,9 +4,9 @@ define([], function () {
 
         var self = this;
 
-        self.name = 'SteamBPM';
+        self.name = 'SMario';
         self.type = 'soundeffects';
-        self.id = 'steamoundeffects';
+        self.id = 'smariosoundeffects';
 
         self.getEffects = function () {
             return {

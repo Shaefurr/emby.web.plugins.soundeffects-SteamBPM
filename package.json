@@ -1,10 +1,10 @@
 {
-    "name": "steamBPM.soundeffectspack",
-    "displayName": "Steam BPM Sound Effects Pack",
+    "name": "SMariosoundeffectspack",
+    "displayName": "Mario Sound Effects Pack",
     "version": "1.0.0",
-    "description": "Steam Big Picture Mode Sound effects",
+    "description": "Super Mario Sound effects",
     "plugin": "plugin.js",
-    "homepage": "https://github.com/Shaefurr/emby.web.plugins.soundeffects.git",
-    "thumb": "steam_image.jpg",
-    "backdrop": "steam_backdrop.jpg"
+    "homepage": "https://github.com/Shaefurr/emby.web.plugins.soundeffects.Mario.git",
+    "thumb": "mario_image.jpg",
+    "backdrop": ""
 }
