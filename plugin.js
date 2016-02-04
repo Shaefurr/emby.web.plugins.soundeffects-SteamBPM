@@ -4,7 +4,7 @@ define([], function () {
 
         var self = this;
 
-        self.name = 'Steam';
+        self.name = 'SteamBPM';
         self.type = 'soundeffects';
         self.id = 'steamoundeffects';
 

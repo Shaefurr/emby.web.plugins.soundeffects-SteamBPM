@@ -1,10 +1,10 @@
 {
     "name": "steamBPM.soundeffectspack",
-    "displayName": "Steam Sound Effects Pack",
+    "displayName": "Steam BPM Sound Effects Pack",
     "version": "1.0.0",
-    "description": "Steam Big Picture Mode sound effects",
+    "description": "Steam Big Picture Mode Sound effects",
     "plugin": "plugin.js",
     "homepage": "https://github.com/Shaefurr/emby.web.plugins.soundeffects.git",
-    "thumb": "",
+    "thumb": "steam_image.jpg",
     "backdrop": ""
 }
